@@ -1,35 +1,60 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Afzal+Shaik;Full-Stack+Developer;Tech+Explorer+%7C+ML+%2B+OCR+Enthusiast" alt="Typing SVG" />
+  <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient">
+        <stop offset="0%" stop-color="#00FFE0">
+          <animate attributeName="stop-color" values="#00FFE0;#FF00C8;#00FFE0" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#FF00C8">
+          <animate attributeName="stop-color" values="#FF00C8;#00FFE0;#FF00C8" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="65%" text-anchor="middle" font-size="45" font-family="Fira Code, monospace" fill="url(#gradient)">
+      Hi, I'm Afzal Shaik
+    </text>
+  </svg>
 </h1>
 
+---
+
 <h3 align="center">
-  <b>Full-Stack Developer</b> • <b>Tech Explorer</b> • <b>Passionate about Impactful Solutions</b>
+  🚀 Full-Stack Developer • Tech Explorer • Open Source Contributor • Passionate about Impactful Solutions
 </h3>
 
-<p align="center" style="font-size: 16px; font-style: italic;">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30" />
-  Let's connect and collaborate on exciting tech projects!
+<p align="center">
+  🎯 JavaScript | React | Node.js | MongoDB | Firebase | REST APIs | Python | Problem Solver <br />
+  💬 Let's connect and collaborate on exciting tech projects!
 </p>
+
+---
 
 <div align="center">
 
-<a href="https://linktr.ee/S_Afzal">
-  <img src="https://img.shields.io/badge/Linktree-3a9c6e?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/afzalshaik">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/afzalshaik">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:afzalshaik@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/AfzalShaik">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://linktr.ee/YOUR_LINKTREE" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-00f2ea?style=flat-square&logo=Linktree&logoColor=white" alt="Linktree" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
+
+
+
 
 
 ---

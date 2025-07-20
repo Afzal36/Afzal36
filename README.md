@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Afzal Shaik</h1>
-<h3 align="center">B.Tech 3rd Year | Full Stack Developer | AI/ML Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Afzal+Shaik" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Crafting Innovative Digital Experiences with Passion & Precision</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AfzalShaik&label=Profile%20Views&color=8e44ad&style=flat" alt="AfzalShaik" />
+</p>
+
+<p align="center">
+  <a href="https://linktr.ee/S_Afzal">
+    <img src="https://img.shields.io/badge/Linktree-39d353?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/afzalshaik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/afzalshaik">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:afzalshaik@email.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AfzalShaik">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-💡 I love solving real-world problems through code.  
-🌱 Currently exploring advanced web dev and AI integrations.  
-🚀 Passionate about building scalable and impactful tech solutions.  
-🤝 Open to internships, collaborations, and freelance opportunities.  
-
-🔗 **Explore more:** [linktr.ee/afzalshaik]([https://linktr.ee/afzalshaik](https://linktr.ee/S_Afzal))
-
----
-
-### 🚀 Featured Projects
+### 🚀 Projects
 
 #### 📚 Digital Academic Library  
 A centralized knowledge repository to ease academic content access.  
@@ -28,38 +44,14 @@ A full-stack MERN blogging platform for modern creators.
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,c,cpp,java,git,firebase,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalshaik&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalshaik&theme=radical" width="450"/>
+  🌟 Always open to learning, collaborating, and building meaningful tech solutions.
 </p>
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: shaikafzalelahi@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/afzalshaik](https://www.linkedin.com/in/shaik-afzal-elahi)  
-- 🌐 Linktree: [linktr.ee/afzalshaik]([https://linktr.ee/afzalshaik](https://linktr.ee/S_Afzal))
-
----
-
-> *"Code with purpose. Build with passion."*

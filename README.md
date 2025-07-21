@@ -11,7 +11,7 @@
       </linearGradient>
     </defs>
     <text x="50%" y="65%" text-anchor="middle" font-size="42" font-family="Fira Code, monospace" fill="url(#gradient)">
-      Crafting Code, Creating Impact — I'm Afzal Shaik
+      Crafting Code, Creating Impact — I'm Afzal 
     </text>
   </svg>
 </h1>

@@ -16,6 +16,9 @@
   </svg>
 </h1>
 
+remove this line inplace add there good sentence with my name and add animation typing each latter i hope you get it
+
+
 ---
 
 <h3 align="center">
@@ -87,19 +90,20 @@ A full-stack MERN blogging platform for modern creators.
 
 <div align="center">
 
-#### 💻 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  #### 💻 Frontend  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-#### 🧠 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  #### 🧠 Backend & Database  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-#### ⚙️ Programming Languages  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  #### ⚙️ Programming Languages  
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 
-#### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,vscode" />
+  #### 🧰 Tools & Platforms  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 </div>
+
 
 ---
 

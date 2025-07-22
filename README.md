@@ -16,7 +16,6 @@
   </svg>
 </h1>
 
-remove this line inplace add there good sentence with my name and add animation typing each latter i hope you get it
 
 
 ---

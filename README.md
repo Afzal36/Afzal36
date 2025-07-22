@@ -62,8 +62,7 @@
 - 🔧 Building full-stack web applications using MERN, REST APIs & Firebase  
 - 🧠 Exploring AI/ML projects for real-world impact  
 - 🛠️ Developing scalable, clean, and responsive UIs  
-- 📊 Visualizing data with charts & dashboards  
-- 👨‍💻 Open source contributor & hackathon enthusiast  
+- 📊 Visualizing data with charts & dashboards   
 
 ---
 

@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  <a href="https://linktr.ee/YOUR_LINKTREE" target="_blank">
+  <a href="https://linktr.ee/S_Afzal" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-00f2ea?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 

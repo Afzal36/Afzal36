@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Linktree-008080?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/shaik-afzal-elahi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -45,11 +45,11 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="shaikafzalelahi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+  <a href="https://github.com/Afzal36" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
